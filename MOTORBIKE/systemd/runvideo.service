@@ -1,0 +1,15 @@
+[Unit]
+Description=My Python Video Recording Script Service
+After=multi-user.target
+
+[Service]
+Type=idle
+Restart=on-failure
+RestartSec=10
+ExecStart=/usr/bin/python3 /media/steve/BIKE1/programs/picamera2_loop.py > /media/steve/BIKE1/data/Mybike1/log/cameralog.txt 2>&1
+WorkingDirectory=/media/steve/BIKE1
+StandardOutput=inherit
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target

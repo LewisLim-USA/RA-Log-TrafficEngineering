@@ -1,0 +1,15 @@
+[Unit]
+Description=Bike System Service
+After=multi-user.target
+
+[Service]
+Type=idle
+Restart=on-failure
+RestartSec=10
+ExecStart=/usr/bin/python3 /media/steve/BIKE1/programs/mqtt_gps_simplified_latest2.py > /media/steve/BIKE1/data/Mybike1/log/syslog.txt 2>&1
+WorkingDirectory=/media/steve/BIKE1
+StandardOutput=inherit
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target
