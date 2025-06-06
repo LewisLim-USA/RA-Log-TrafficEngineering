@@ -11,11 +11,11 @@
 
 ## 🎓 Lessons Learned
 
-Understand the anatomy of GPIO pins
-Double check python code 
-Be scientific with your steps
-Be careful with electronics, dont fry
-Journal when boared
+- Understand the anatomy of GPIO pins
+- Double check python code 
+- Be scientific with your steps
+- Be careful with electronics, dont fry
+- Journal everything 
 
 ---
 
