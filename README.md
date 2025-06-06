@@ -1,4 +1,4 @@
-# No Nonsense Summary
+# Personal Summary
 ## 🔑 Key Insights (to‑date)
 
 1. **Regulatory Focus vs. Enforcement Gap**   Government bodies predominantly **want to quantify risk**, but **rarely enforce** corrective measures at scale. Our dataset can bridge this “knowledge–action” gap by showing *where* and *why* risky riding spikes.
@@ -8,24 +8,16 @@
 
 ---
 
-## 🎓 Lessons Learned
+## 🎓 Contributions
 
 - Understand the anatomy of GPIO pins
 - Double check python code 
 - Be scientific with your steps
 - Be careful with electronics, dont fry
-- Journal everything 
+- Be super aware with supervisor's instructions
+- Journal everything
+- Data visualization
 
----
-
-## 📈 Analysis Pipeline
-
-1. **Segmentation** – rides split by ignition events.
-2. **Feature Extraction** – speed, jerk, lean angle, throttle variance.
-3. **Risk Scoring** – weighted logistic model calibrated on crash literature.
-4. **Visualisation** – interactive maps and time‑series via Plotly Dash (planned).
-
----
 
 ## 🧑‍💼 Acknowledgements
 
