@@ -4,7 +4,7 @@
 
 ---
 
-## 📑 Project Overview
+## 📑 Project Overview, Learning from the experts
 
 This repository documents the end‑to‑end workflow and weekly reflections for the **“Quantification of Motorcyclist Risky Behavior Using a Naturalistic Driving Study Approach”** research assistantship (March – May 2025). The study captures real‑world ride data with an IoT sensor stack (GPS, IMU, video, CAN, and environmental probes) to identify patterns that correlate with risky maneuvers on Malaysian roads.
 
