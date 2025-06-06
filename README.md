@@ -19,18 +19,6 @@
 
 ---
 
-## 🛠️ Hardware Bill‑of‑Materials (v1.2)
-
-- Raspberry Pi 5 (8 GB) + active cooler
-- **A7670SA** 4G‑GNSS module @ `/dev/ttyUSB3`
-- Arducamera IMX219 camera (30 fps, 720p)
-- 12 V‑to‑5 V DC‑DC buck converter (3 A)
-- Waterproof enclosure (IP65)
-
-Detailed wiring diagrams are found under **`hardware/diagrams/`**.
-
----
-
 ## 📈 Analysis Pipeline
 
 1. **Segmentation** – rides split by ignition events.
