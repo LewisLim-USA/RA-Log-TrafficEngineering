@@ -1,13 +1,3 @@
-# Quantification of Motorcyclist Risky Behavior – RA Log
-
-> Naturalistic Driving Study • MIROS SCRF ANCHOR V (EN101264) • UTAR × Taylor’s University
-
----
-
-## 📑 Project Overview, Learning from the experts
-
-This repository documents the end‑to‑end workflow and weekly reflections for the **“Quantification of Motorcyclist Risky Behavior Using a Naturalistic Driving Study Approach”** research assistantship (March – May 2025). The study captures real‑world ride data with an IoT sensor stack (GPS, IMU, video, CAN, and environmental probes) to identify patterns that correlate with risky maneuvers on Malaysian roads.
-
 ## 🔑 Key Insights (to‑date)
 
 1. **Regulatory Focus vs. Enforcement Gap**   Government bodies predominantly **want to quantify risk**, but **rarely enforce** corrective measures at scale. Our dataset can bridge this “knowledge–action” gap by showing *where* and *why* risky riding spikes.
