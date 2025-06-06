@@ -3,9 +3,8 @@
 
 1. **Regulatory Focus vs. Enforcement Gap**   Government bodies predominantly **want to quantify risk**, but **rarely enforce** corrective measures at scale. Our dataset can bridge this “knowledge–action” gap by showing *where* and *why* risky riding spikes.
 2. **IoT‑Driven Personal Verification**   Low‑cost sensor fusion (GPS + IMU + vision) is emerging as the **de‑facto method for behavioural verification**, surpassing self‑reported surveys.
-3. **Edge Processing Matters**   Early feature extraction on Raspberry Pi 5 significantly reduces storage overhead and protects rider privacy by discarding raw video off‑device when not required.
-4. **Context‑Aware Labelling > Generic Thresholds**   Speed or acceleration cut‑offs alone misclassify risk; integrating *road type*, *traffic density*, and *weather* produces richer insights.
-5. **Mastering** different types of perception modules and reading through their manual is challenging like A7670SA vs SIM7000E
+3. **Context‑Aware Labelling > Generic Thresholds**   Speed or acceleration cut‑offs alone misclassify risk; integrating *road type*, *traffic density*, and *weather* produces richer insights.
+4. **Mastering** different types of perception modules and reading through their manual is challenging like A7670SA vs SIM7000E
 
 ---
 
