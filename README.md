@@ -17,6 +17,7 @@
 - Be super aware with supervisor's instructions
 - Journal everything
 - Data visualization
+- Be first-line initaitives for Steve: testing 3D prints, trying out new connection ports
 
 
 ## 🧑‍💼 Acknowledgements
